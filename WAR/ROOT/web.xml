@@ -3,5 +3,13 @@
 	      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
 	version="3.0">
 	<display-name>Webapp1</display-name>
+	
+	<servlet>
+	  <servlet-name>MainServ</servlet-name> 
+	  <servlet-class>tk.pintonda.MainServlet</servlet-class> 
+	  <load-on-startup>1</load-on-startup> 
+	  <async-supported>true</async-supported> 
+	</servlet>
+
 </web-app>
 
