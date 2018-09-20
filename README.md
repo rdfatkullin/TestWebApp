@@ -1,2 +1,2 @@
 # TestWebApp
-Tes WAR WebApp for Jetty server
+Test WAR WebApp for Jetty server
